@@ -1,4 +1,4 @@
-# Digital_Holography
+# Digital Holography
 Let's play with digital holograms
 ## 1. Reconstructing an *off-axis* hologram by Fresnel Approximation
 Reference: Digital holography and wavefront sensing by Ulf Schnars, Claas Falldorf, John Watson, and Werner Jüptner, Springer-verlag Berlin an, 2016. (Section 3.2)
