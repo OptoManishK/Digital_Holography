@@ -1,7 +1,7 @@
 # Digital Holography
 Let's play with digital holograms
 
-Reference textbook: Digital holography and wavefront sensing by Ulf Schnars, Claas Falldorf, John Watson, and Werner Jüptner, Springer-verlag Berlin an, 2016. (Section 3.2)
+Reference textbook: Digital holography and wavefront sensing by Ulf Schnars, Claas Falldorf, John Watson, and Werner Jüptner, Springer-verlag Berlin an, (2016). (Read section 3.2)
 
 ### Digital Hologram
 <img src="https://github.com/OptoManishK/Digital_Holography/blob/master/ulf7.BMP" width="200" height="200">
