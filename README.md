@@ -9,10 +9,10 @@ Reference textbook: Digital holography and wavefront sensing by Ulf Schnars, Cla
 
 ### 1. Reconstructing an *off-axis* hologram by Fresnel Approximation
 'Fresnel_reconstruction.ipynb' contains the algorithm.
-#### Fresnel reconstruction result
+Fresnel reconstruction result
 <img src="https://github.com/OptoManishK/Digital_Holography/blob/master/fresnel_reconstruction.png" width="200" height="200">
 
 ### 2. Reconstructing an *off-axis* hologram by Convolution approach
 'Convolution_reconstruction.ipynb' contains the algorithm.
-#### Convolution reconstruction result
+Convolution reconstruction result
 <img src="https://github.com/OptoManishK/Digital_Holography/blob/master/Convolution_reconstruction.png" width="200" height="200">
