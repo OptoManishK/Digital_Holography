@@ -10,9 +10,9 @@ Reference textbook: Digital holography and wavefront sensing by Ulf Schnars, Cla
 ### 1. Reconstruction by Fresnel approximation
 'Fresnel_reconstruction.ipynb' contains the algorithm.  
 Fresnel reconstruction result  
-<img src="https://github.com/OptoManishK/Digital_Holography/blob/master/fresnel_reconstruction.png" width="200" height="200">
+<img src="https://github.com/OptoManishK/Digital_Holography/blob/master/images/fresnel_reconstruction.png" width="200" height="200">
 
 ### 2. Reconstruction by Convolution approach
 'Convolution_reconstruction.ipynb' contains the algorithm.  
 Convolution reconstruction result  
-<img src="https://github.com/OptoManishK/Digital_Holography/blob/master/Convolution_reconstruction.png" width="200" height="200">
+<img src="https://github.com/OptoManishK/Digital_Holography/blob/master/images/Convolution_reconstruction.png" width="200" height="200">
