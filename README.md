@@ -16,3 +16,6 @@ Fresnel reconstruction result
 'Convolution_reconstruction.ipynb' contains the algorithm.  
 Convolution reconstruction result  
 <img src="https://github.com/OptoManishK/Digital_Holography/blob/master/images/Convolution_reconstruction.png" width="200" height="200">
+
+Convolution reconstruction with suppressed DC term (obtained by using hologram - mean(hologram))  
+<img src="https://github.com/OptoManishK/Digital_Holography/blob/master/images/Convolution_reconstruction_DCsuppressed.png" width="200" height="200">
