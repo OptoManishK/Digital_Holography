@@ -8,11 +8,13 @@ Reference textbook: Digital holography and wavefront sensing by Ulf Schnars, Cla
 'ulf7.BMP' is an *off-axis* digital hologram created by recording an object at about 1 meter distance with HeNe laser (632.8 nm) and an image sensor with 6.8 µm pixel size. 
 
 ### 1. Reconstruction by Fresnel approximation
+This offers fastest way of reconstructing a hologram (only one FFT operation).
 'Fresnel_reconstruction.ipynb' contains the algorithm.  
 Fresnel reconstruction result  
 <img src="https://github.com/OptoManishK/Digital_Holography/blob/master/images/fresnel_reconstruction.png" width="200" height="200">
 
 ### 2. Reconstruction by Convolution approach
+This offeres most flexible way of reconstructing a hologram. It is possible to numerically adjust the zoom value in the reconstruction. Involves 3 FFT operations. 
 'Convolution_reconstruction.ipynb' contains the algorithm.  
 Convolution reconstruction result  
 <img src="https://github.com/OptoManishK/Digital_Holography/blob/master/images/Convolution_reconstruction.png" width="200" height="200">
