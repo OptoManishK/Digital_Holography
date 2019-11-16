@@ -21,3 +21,6 @@ Convolution reconstruction result
 
 Convolution reconstruction with suppressed DC term (obtained by using hologram - mean(hologram))  
 <img src="https://github.com/OptoManishK/Digital_Holography/blob/master/images/Convolution_reconstruction_DCsuppressed.png" width="200" height="200">
+
+
+Cite this tool as: [![DOI](https://zenodo.org/badge/183130530.svg)](https://zenodo.org/badge/latestdoi/183130530)
