@@ -1,8 +1,0 @@
-name: digital-holography
-channels:
-  - conda-forge
-dependencies:
-  - numpy
-  - matplotlib
-  - pillow
-  - ipywidgets
