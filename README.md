@@ -1,4 +1,5 @@
-# Digital Holography
+# Digital Holography [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OptoManishK/Digital_Holography/HEAD)
+
 Let's play with digital holograms
 
 Reference textbook: Digital holography and wavefront sensing by Ulf Schnars, Claas Falldorf, John Watson, and Werner Jüptner, Springer-verlag Berlin an, (2016). (Read section 3.2)
