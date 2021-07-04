@@ -6,4 +6,3 @@ dependencies:
   - matplotlib
   - pillow
   - ipywidgets
-  - python
